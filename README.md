@@ -1,1 +1,1 @@
-# New-Project
+# Dice-ware password generator
